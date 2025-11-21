@@ -8,6 +8,10 @@
 [![Website](https://img.shields.io/badge/Website-MODCUB-blue?logo=google-chrome)](https://modcub.fun/)
 [![Twitter](https://img.shields.io/badge/Twitter-MODCUB-blue?logo=twitter)](https://x.com/MODCUBFUN)
 
+```
+CA: 5G4mFKAjvRp9UGm6fSdcwSCixUHVTWnoS1wJwWYFpump
+```
+
 MODCUB is a new predictive intelligence layer built specifically for Polymarket — a system that enhances market understanding through a network of modular micro-oracles.
 
 Instead of relying on a single monolithic oracle, MODCUB decomposes the market into dozens of lightweight, independent analytical units — “Cubes.” Each Cube specializes in a particular predictive ability: detecting mispriced odds, analyzing momentum shifts, measuring liquidity pressure, filtering noise, reading event-driven pulses, or identifying arbitrage windows.
