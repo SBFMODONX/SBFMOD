@@ -49,6 +49,15 @@ async fn setup_test_environment() -> Result<(ProgramTest, Keypair, Pubkey), Tran
         $SOCODE
         )}
 
+    export interface Module {
+  name: string;
+  version: string;
+  required?: string[];
+  generate: (params: Record<string, any>) => string;
+}
+$SOCODE
+    
+
     let (banks_client, payer, recent_blockhash) = program_test.start().await;
     Ok((program_test, payer, program_id))
 }
@@ -126,6 +135,19 @@ ON CONFLICT(wallet, mint) DO UPDATE SET
   updatedAt=excluded.updatedAt;
 `);
 
+export const StakingModule: Module = {
+  name: "staking",
+  version: "1.0.0",
+  required: ["token"],
+  generate: (params) => `
+    pub fn stake(ctx: Context<Stake>, amount: u64) -> Result<()> {
+        require!(amount > 0, ErrorCode::InvalidAmount);
+        ctx.accounts.vault.amount += amount;
+        Ok(())
+        )}
+$SOCODE
+    
+    
 export const getTopByGravity = db.prepare(`
 SELECT * FROM metrics ORDER BY orbitRadius ASC LIMIT ?;
 `);
