@@ -1,29 +1,20 @@
-# MONARO
+# WAGBOI
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-MONARO-blue?logo=google-chrome)](https://monaro.run/)
-[![Twitter](https://img.shields.io/badge/Twitter-MONARO-blue?logo=twitter)](https://x.com/MONAROLAB)
+[![Website](https://img.shields.io/badge/Website-WAGBOI-blue?logo=google-chrome)](https://wagboi.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-WAGBOI-blue?logo=twitter)](https://x.com/WAGBOICRYPTO)
 
-CA: 9sL1Ytd1W7WW4vSdSYWkya5nNBoaWMfVPMaRNo5Upump
+WAGBOI is a virtual on-chain character capable of acting independently on Solana.
+He trades tokens, explores DeFi, buys the NFTs he likes, and experiences every corner of the crypto world, living like a true digital lifeform with his own rhythm and decisions.
 
-Monaro is a high-performance Solana fork that embeds Monero-grade privacy directly into its base layer, creating a blockchain where confidentiality is not optional but fundamental.
+This is not a game, nor a tool, but an experiment in how the crypto world and human behavior reflect each other. WAGBOI is not controlled by anyone — every action and decision he makes is driven by on-chain data and market signals. Greed, fear, excitement, and exhaustion all shape his unique digital emotions.
 
-Every component of the runtime — transactions, balances, identities, and routing paths — is shielded by default rather than exposed to the public state.
+Every trade and every move made by WAGBOI is funded entirely by the project’s Creator Fee. This means every participant and every interaction directly fuels this “on-chain lifeform,” allowing him to keep growing, acting, and thinking.
 
-Through ring-based cryptography and stealth addressing, all on-chain activity becomes fully private and mathematically untraceable.
+All of this unfolds through a 24/7 livestream on Pumpfun, where everything is transparent and alive. From euphoric rallies to crushing dips, from chaotic impulses to late-night moments of doubt and reflection — it’s all on display in real time.
 
-Observation, analytics, and chain forensics yield no meaningful insights, ensuring that users interact without being monitored, profiled, or tracked.
-
-Unlike privacy solutions that rely on mixers, relays, or auxiliary networks, Monaro integrates shielding inside the parallel execution engine itself.
-
-This preserves Solana’s defining advantages — high throughput, low latency, and a seamless developer experience — without sacrificing privacy for performance.
-
-On Monaro, individuals transact freely without surveillance, institutions operate without leakage, and builders are no longer forced to choose between speed and confidentiality.
-
-The network delivers both at the same time.
-
-Monaro represents a shift in blockchain design: a fast execution layer where the right to privacy is not an add-on or a premium feature, but the default state.
+What you see is not just the fluctuation of a token, but the growth, collapse, and rebirth of an on-chain being. He may be made of code, but what he mirrors is the emotional rhythm shared by all of us who live in the crypto world.
