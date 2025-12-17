@@ -3,6 +3,8 @@
 **OWLNET — The Ascension Network**
 *An ascending tree formed by owl nodes, collectively building an evolving on-chain cognitive network.*
 
+CA: Hdo6PGqjGA217B231xLzPgUfELp4uCzj9eTWLaNtpump
+
 ---
 
 ## Links
