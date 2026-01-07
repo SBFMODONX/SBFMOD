@@ -1,86 +1,146 @@
-```
- ________  ________  ________  ________  ________  ________   ________  ________  ___       ___               ________  
-|\   ___ \|\   __  \|\   __  \|\   ____\|\   __  \|\   ___  \|\   ____\|\   __  \|\  \     |\  \             |\_____  \ 
-\ \  \_|\ \ \  \|\  \ \  \|\  \ \  \___|\ \  \|\  \ \  \\ \  \ \  \___|\ \  \|\  \ \  \    \ \  \             \|___/  /|
- \ \  \ \\ \ \   _  _\ \   __  \ \  \  __\ \  \\\  \ \  \\ \  \ \  \    \ \   __  \ \  \    \ \  \                /  / /
-  \ \  \_\\ \ \  \\  \\ \  \ \  \ \  \|\  \ \  \\\  \ \  \\ \  \ \  \____\ \  \ \  \ \  \____\ \  \____          /  / / 
-   \ \_______\ \__\\ _\\ \__\ \__\ \_______\ \_______\ \__\\ \__\ \_______\ \__\ \__\ \_______\ \_______\       /__/ /  
-    \|_______|\|__|\|__|\|__|\|__|\|_______|\|_______|\|__| \|__|\|_______|\|__|\|__|\|_______|\|_______|       |__|/   
-                                                                                                                        
-                                                                                                                        
-```                                                                                                                        
-                                                                                                                        
-#·#·# DragonCall 7
+![1500x500](https://github.com/user-attachments/assets/589489d0-5719-476a-b67a-cc11c23308fc)
 
-<p align="center">
-  <a href="https://dgcall7.fun/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-dgcall7.fun-black?style=flat&logo=googlechrome&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://x.com/DragonCall7fun" target="_blank">
-    <img src="https://img.shields.io/badge/X-@DragonCall7fun-black?style=flat&logo=x&logoColor=white">
-  </a>
-</p>
+# YuGiOhGotchi
 
+**Bringing Yu-Gi-Oh–style card rules to the chain.**  
+**Card rule systems duel each other live via Pumpfun connections.**
+
+🌐 Website: https://ygotchi.fun/  
+🐦 X (Twitter): https://x.com/YuGiOhGotchi  
+CA: CxgYzqvKumaMb8wZ5Qsur4vDhbHTp7vvBndPukiVpump
 
 ---
 
-## Overview
+## What Is YuGiOhGotchi?
 
-**DragonCall 7** places the concept of Saiyan form change into an on-chain environment.
+**YuGiOhGotchi** is an experimental on-chain project built on Solana.
 
-The project revolves around a single Saiyan entity living on Solana. It owns its own wallet and operates in real crypto markets using creator fees as its only source of funding. There is no user control, no manual input, and no predefined path. Every form change is the direct result of its trading behavior.
+It brings **:contentReference[oaicite:0]{index=0}–style card rules** into a live, automated system where **rules themselves become the duelists**.
 
----
+There are no players controlling cards.  
+There are no manual actions.
 
-## How It Operates
-
-- One autonomous on-chain entity  
-- One independent wallet  
-- Funded exclusively by creator fees  
-- Real trades executed on-chain  
-- No external deposits or intervention  
-
-The Saiyan acts according to market conditions alone.
+Instead, each YuGiOhGotchi runs its own independent card rule system on-chain, and all outcomes are resolved automatically.
 
 ---
 
-## Form Changes
+## Core Idea
 
-There are no levels, upgrades, or feeding mechanics.
+Traditional card games are driven by players.
 
-Form change is not a reward and not an objective.  
-It reflects accumulated behavior over time — how risk is taken, how positions are managed, and whether the entity can continue operating under volatility.
+YuGiOhGotchi explores a different question:
 
-The Saiyan may:
-- Shift into more aggressive forms  
-- Lose stability and regress  
-- Or exit the market entirely  
+> **What happens when duels are no longer controlled by humans, but by rules themselves?**
 
-There are no resets.
+In YuGiOhGotchi:
+- Rules are drawn by the system
+- Rules are executed automatically
+- Outcomes cannot be reversed
 
----
-
-## What This Is Not
-
-- Not a game  
-- Not a trading bot  
-- Not a financial product  
-- No user ownership or control  
-- No promises of performance or returns  
+Humans do not play.  
+Humans observe.
 
 ---
 
-## Transparency
+## How It Works
 
-- All activity is on-chain  
-- Funding comes only from creator fees  
-- Outcomes are public and verifiable  
+### 1. Independent Rule Systems
 
-Nothing is hidden. Nothing is adjusted.
+Each YuGiOhGotchi operates with its own card rule system.
+
+- Rules are **not chosen by users**
+- Rules are **not selected by the team**
+- Rules are **drawn automatically by the system**
+
+Once a rule is drawn, it must be executed.  
+There is no undo and no rollback.
 
 ---
 
-## Rules
+### 2. No Player Control
 
+YuGiOhGotchi is **not a player-versus-player game**.
 
+- No buttons to press  
+- No strategies to input  
+- No actions to perform  
+
+There is no way to influence the outcome of a duel.
+
+The system itself becomes the duelist.
+
+---
+
+### 3. Live Duels via Pumpfun
+
+When two YuGiOhGotchi connect through **Pumpfun livestream linking**, a duel begins automatically.
+
+During the livestream:
+- Both sides draw rules in real time
+- Rule interactions are resolved automatically
+- Results are determined by predefined priorities
+
+The livestream simply shows what happens when **two rule systems collide**.
+
+This marks the **first time Pumpfun livestream connections are used for live, system-level card duels**.
+
+---
+
+## What YuGiOhGotchi Is Not
+
+YuGiOhGotchi is **not**:
+
+- A traditional card game  
+- A player-controlled game  
+- A play-to-earn system  
+- An NFT adoption or ownership game  
+
+There are no players, no progression systems, and no rewards for winning.
+
+---
+
+## Why Pumpfun?
+
+Pumpfun provides a unique environment where:
+- Attention is live
+- Events happen in public
+- Outcomes are witnessed together
+
+YuGiOhGotchi uses Pumpfun livestream connections as the **stage**, not as a control layer.
+
+Duels happen live.  
+Results unfold in public.
+
+---
+
+## Philosophy
+
+YuGiOhGotchi is a **rule experiment**, not a competitive game.
+
+It explores:
+- Automation over control
+- Rules over players
+- Observation over interaction
+
+The goal is not to win —  
+the goal is to **see what happens**.
+
+---
+
+## Status
+
+YuGiOhGotchi is an ongoing experimental project.
+
+Features, rules, and formats may evolve over time, but the core idea remains unchanged:
+
+> **Rules are drawn. Outcomes remain.**
+
+---
+
+## Disclaimer
+
+YuGiOhGotchi is an experimental on-chain system with no guaranteed utility, value, or financial return.
+
+It exists as a public exploration of automated rule systems, live interactions, and on-chain experiments.
+
+Participation is voluntary and observational.
