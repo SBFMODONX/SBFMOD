@@ -1,146 +1,79 @@
-![1500x500](https://github.com/user-attachments/assets/589489d0-5719-476a-b67a-cc11c23308fc)
+![1500x500](https://github.com/user-attachments/assets/01576d0d-b92e-4e03-8725-dba0455bd6d5)
 
-# YuGiOhGotchi
+# NarutoGotchi
 
-**Bringing Yu-Gi-Oh–style card rules to the chain.**  
-**Card rule systems duel each other live via Pumpfun connections.**
-
-🌐 Website: https://ygotchi.fun/  
-🐦 X (Twitter): https://x.com/YuGiOhGotchi  
-CA: CxgYzqvKumaMb8wZ5Qsur4vDhbHTp7vvBndPukiVpump
-
----
-
-## What Is YuGiOhGotchi?
-
-**YuGiOhGotchi** is an experimental on-chain project built on Solana.
-
-It brings **:contentReference[oaicite:0]{index=0}–style card rules** into a live, automated system where **rules themselves become the duelists**.
-
-There are no players controlling cards.  
-There are no manual actions.
-
-Instead, each YuGiOhGotchi runs its own independent card rule system on-chain, and all outcomes are resolved automatically.
+<p align="center">
+  <a href="https://ngotchi.fun/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-ngotchi.fun-black?style=flat-square&logo=googlechrome&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://x.com/NarutoGotchi" target="_blank">
+    <img src="https://img.shields.io/badge/X-@NarutoGotchi-black?style=flat-square&logo=x&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## Core Idea
+## Overview
 
-Traditional card games are driven by players.
+**NarutoGotchi** brings the concept of ninja growth and training on-chain.
 
-YuGiOhGotchi explores a different question:
+The project features a single ninja entity living on Solana.  
+It owns its own wallet and trades in real crypto markets using creator fees as its only source of funding.
 
-> **What happens when duels are no longer controlled by humans, but by rules themselves?**
-
-In YuGiOhGotchi:
-- Rules are drawn by the system
-- Rules are executed automatically
-- Outcomes cannot be reversed
-
-Humans do not play.  
-Humans observe.
+There is no user control and no predefined path.  
+Every technique learned and every state change emerges from its actual trading behavior.
 
 ---
 
-## How It Works
+## How It Operates
 
-### 1. Independent Rule Systems
+- One autonomous on-chain ninja  
+- One independent wallet  
+- Funded exclusively by creator fees  
+- Real trades executed on-chain  
+- No external deposits or manual intervention  
 
-Each YuGiOhGotchi operates with its own card rule system.
-
-- Rules are **not chosen by users**
-- Rules are **not selected by the team**
-- Rules are **drawn automatically by the system**
-
-Once a rule is drawn, it must be executed.  
-There is no undo and no rollback.
+The ninja responds only to market conditions.
 
 ---
 
-### 2. No Player Control
+## Ninjutsu & Growth
 
-YuGiOhGotchi is **not a player-versus-player game**.
+There are no levels, experience points, or feeding mechanics.
 
-- No buttons to press  
-- No strategies to input  
-- No actions to perform  
+Learning ninjutsu is not a reward system.  
+It is the accumulated outcome of behavior over time — how risk is taken, how positions are managed, and how the ninja survives volatility.
 
-There is no way to influence the outcome of a duel.
+The ninja may:
+- Learn new techniques  
+- Improve or stagnate  
+- Lose effectiveness  
+- Or fail entirely  
 
-The system itself becomes the duelist.
-
----
-
-### 3. Live Duels via Pumpfun
-
-When two YuGiOhGotchi connect through **Pumpfun livestream linking**, a duel begins automatically.
-
-During the livestream:
-- Both sides draw rules in real time
-- Rule interactions are resolved automatically
-- Results are determined by predefined priorities
-
-The livestream simply shows what happens when **two rule systems collide**.
-
-This marks the **first time Pumpfun livestream connections are used for live, system-level card duels**.
+There are no resets.
 
 ---
 
-## What YuGiOhGotchi Is Not
+## What This Is Not
 
-YuGiOhGotchi is **not**:
-
-- A traditional card game  
-- A player-controlled game  
-- A play-to-earn system  
-- An NFT adoption or ownership game  
-
-There are no players, no progression systems, and no rewards for winning.
+- Not a game  
+- Not a trading bot  
+- Not a financial product  
+- No user ownership or control  
+- No promises of performance or returns  
 
 ---
 
-## Why Pumpfun?
+## Transparency
 
-Pumpfun provides a unique environment where:
-- Attention is live
-- Events happen in public
-- Outcomes are witnessed together
+- All activity is on-chain  
+- All funding comes from creator fees  
+- All outcomes are public and verifiable  
 
-YuGiOhGotchi uses Pumpfun livestream connections as the **stage**, not as a control layer.
-
-Duels happen live.  
-Results unfold in public.
+Nothing is hidden. Nothing is adjusted.
 
 ---
 
-## Philosophy
+## Rules
 
-YuGiOhGotchi is a **rule experiment**, not a competitive game.
-
-It explores:
-- Automation over control
-- Rules over players
-- Observation over interaction
-
-The goal is not to win —  
-the goal is to **see what happens**.
-
----
-
-## Status
-
-YuGiOhGotchi is an ongoing experimental project.
-
-Features, rules, and formats may evolve over time, but the core idea remains unchanged:
-
-> **Rules are drawn. Outcomes remain.**
-
----
-
-## Disclaimer
-
-YuGiOhGotchi is an experimental on-chain system with no guaranteed utility, value, or financial return.
-
-It exists as a public exploration of automated rule systems, live interactions, and on-chain experiments.
-
-Participation is voluntary and observational.
